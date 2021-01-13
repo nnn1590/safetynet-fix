@@ -25,3 +25,8 @@ lunch lineage_arm64-eng  # Choose the architecture you like.
 5. If the build is successful, the binary is here: `$OUT/system/bin/keystore`
 
 Tested on Ubuntu 20.04 (amd64) and Google Pixel 4 (StockROM, Android 10)
+
+## Notice
+The file `android-10-lineageos-17.1.patch` is based on [AOSP source code](https://android.googlesource.com/platform/system/security) and https://github.com/ProtonAOSP/android_system_security.
+  Apache License, Version 2.0
+  Copyright (c) 2008-2015, The Android Open Source Project
